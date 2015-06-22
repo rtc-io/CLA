@@ -1,6 +1,6 @@
 # rtc.io Contributor License Agreement (“Agreement”)
 
-Thank you for your interest in the rtc.io open source Project which is being administered by National ICT Australia Limited (NICTA). This document describes the terms under which You, the person listed below, may contribute software, bug fixes, configuration changes, documentation, or any other materials that you send to Us related to the Project (each a “Contribution”) to the Project. This contributor license agreement (“Agreement”) documents the rights granted by You to Us with respect to your Contributions.
+Thank you for your interest in the rtc.io open source Project which is being administered by National ICT Australia Limited (NICTA). This document describes the terms under which You, the person listed below, may contribute software, bug fixes, configuration changes, documentation, or any other materials that you send to Us related to the Project (each a “Contribution”) to the Project. This contributor license agreement (“Agreement”) documents the rights granted by You to Us with respect to your Contributions. Once agreed, these terms apply not only to your initial Contribution but also to all subsequent Contributions by You to the Project.
 
 We appreciate your participation in our Project, and your help in improving the Project, so we want you to understand what will be done with the Contributions. This license is for your protection as well as the protection of NICTA and its licensees. It does not change your right to use your own Contribution for any other purpose.
 
