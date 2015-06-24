@@ -58,3 +58,4 @@ If some third party (like your employer, or perhaps your university) may claim r
 ## Users who have signed this agreement:
 
 [Silvia Pfeiffer](https://github.com/silviapfeiffer)
+[Damon Oehlman](https://github.com/DamonOehlman)
