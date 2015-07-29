@@ -60,3 +60,5 @@ If some third party (like your employer, or perhaps your university) may claim r
 [Silvia Pfeiffer](https://github.com/silviapfeiffer)
 
 [Damon Oehlman](https://github.com/DamonOehlman)
+
+[Nathan Oehlman](https://github.com/nathanoehlman)
