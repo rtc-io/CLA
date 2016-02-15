@@ -10,3 +10,5 @@ Before you make your first contribution, please create a pull request on this re
 Once your pull request has been accepted, all your contributions, including any future contributions, are covered by this signed CLA.
 
 Register an issue if you have a need to diverge from the standard CLA path.
+
+Why do we ask you to sign the CLA? There is a good write-up here: https://www.clahub.com/pages/why_cla .
