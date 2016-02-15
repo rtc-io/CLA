@@ -12,3 +12,5 @@ Once your pull request has been accepted, all your contributions, including any 
 Register an issue if you have a need to diverge from the standard CLA path.
 
 Why do we ask you to sign the CLA? There is a good write-up here: https://www.clahub.com/pages/why_cla . It's mostly so we can be sure that your contribution is not tainted and we can be sure to continue using it in the future as part of this codebase.
+
+Incidentally, we ask all contributors to sign the CLA, even for small contributions. You can also choose to sign it at a later stage when you've provided more substantial contributions. We don't want this to be in the way of you becoming part of the rtc.io community.
