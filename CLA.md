@@ -64,3 +64,5 @@ If some third party (like your employer, or perhaps your university) may claim r
 [Nathan Oehlman](https://github.com/nathanoehlman)
 
 [Daniel Buckmaster](https://github.com/eightyeight)
+
+[Kevin Frugier](https://github.com/kevin-frugier)
