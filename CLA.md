@@ -66,3 +66,5 @@ If some third party (like your employer, or perhaps your university) may claim r
 [Daniel Buckmaster](https://github.com/eightyeight)
 
 [Kevin Frugier](https://github.com/kevin-frugier)
+
+[Bryan Arbelo](https://github.com/magestican)
